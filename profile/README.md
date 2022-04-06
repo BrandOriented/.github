@@ -7,4 +7,3 @@
   <img src="https://brandoriented.pl/main-banner/main-banner-logotype-oracle.png" alt="" class="jsx-2084914950">
   <img src="https://brandoriented.pl/main-banner/main-banner-logotype-assets.png" alt="" class="jsx-2084914950">
 </p>
-  ![image](https://user-images.githubusercontent.com/1152480/161946834-f97f3bac-f0da-44e1-9d96-321ff35f5222.png)
