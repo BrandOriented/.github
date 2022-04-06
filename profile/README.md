@@ -1,4 +1,6 @@
-<p align="center"><a href="https://brandoriented.pl" target="_blank"><img src="https://brandoriented.pl/logotypes/brand-oriented-logotype.svg" width="400"></a></p>
+<p align="center"><a href="https://brandoriented.pl" target="_blank"><img src="https://brandoriented.pl/logotypes/brand-oriented-logotype.svg" width="400"></a><br />
+Brand Oriented Sp. z o.o.
+</p>
 
 <p align="center">
   <span style="font-size: 1.3rem;font-weight: 300;color: #7ab5df;margin: 0;padding: 32px 0 20px;">Zintegrowane rozwiązanie dedykowane dla Twojej obecnej infrastruktury IT:</span><br />
