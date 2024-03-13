@@ -5,20 +5,17 @@ on:
 
 jobs:
   help-wanted:
-    if: github.event.label.name == 'help wanted'
-
     runs-on: ubuntu-latest
-
     steps:
       - name: Add comment
         uses: peter-evans/create-or-update-comment@v4
         with:
           issue-number: ${{ github.event.issue.number }}
           body: |
-            Thank you for reporting this issue!
+            Thank you for reporting this problem!
             
-            This is an open source project, we rely on the community to help us diagnose and fix issues as it is not possible to research and fix every issue reported to us via GitHub.
+            This is an open source project, and we rely on the community to help us diagnose and fix issues, as it is not possible to investigate and fix every issue reported to us via GitHub.
             
-            If possible, please make a pull request fixing the issue you have described, along with corresponding tests. All pull requests are promptly reviewed by the BrandOriented team.
+            If possible, please create a pull request that fixes the problem you describe, along with appropriate tests. All pull requests will be promptly reviewed by the BrandOriented team.
             
-            Thank you!
+            Thank you very much!
